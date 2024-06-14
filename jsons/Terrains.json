@@ -33,7 +33,7 @@
 	{
 		"name": "Desert",
 		"type": "Land",
-		"food": 1,
+		"production": 1,
 		"movementCost": 1,
 		"RGB": [ 255, 255, 102]
 	},
