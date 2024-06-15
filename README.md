@@ -1,3 +1,5 @@
-Minimal base ruleset for Unciv, so people can start somewhere and gradually expand
+Used template for Minimal base ruleset for Unciv, 
+
+wip
 
 Based on https://github.com/AdelleStuuu/Adelle-Corp
